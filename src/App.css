@@ -3,6 +3,11 @@ table, tr, td, th{
   border-collapse: collapse;
 }
 
+table{
+  width: 60%;
+  margin: 0 auto;
+}
+
 #addNew{
   position: fixed;
   bottom: 50px;

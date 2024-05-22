@@ -7,6 +7,7 @@ export const Navbar = () => {
     <div style={{display: 'flex', justifyContent: 'space-between'}}>
         <Link to='/'>Home</Link>
         <Link to='/admin'>Admin</Link>
+        <Link to='/favorites'>Wishlist</Link>
     </div>
   )
 }

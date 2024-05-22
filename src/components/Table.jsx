@@ -14,6 +14,12 @@ export const CustomTable = ({children}) => {
             <th>
                 price
             </th>
+            <th>
+                Delete
+            </th>
+            <th>
+                Edit
+            </th>
         </tr>
     </thead>
     <tbody>
